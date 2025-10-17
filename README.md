@@ -1,9 +1,10 @@
-# [Group name]
+# [Data crushers]
 
 **Group members:**
-- A
-- B
-- C
+- Alberte
+- Sebastian
+- Viktor
+- Haena 
 
 **This repository contains:***
 
